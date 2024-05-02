@@ -23,3 +23,14 @@ Bye Bye!
 
 
  [[The Negative Effects of Video Games]] 
+
+
+
+**Citations**
+Landing.jobs. (2022). The evolution of gaming culture. Retrieved from [https://landing.jobs/blog/gaming-culture-evolution/](https://landing.jobs/blog/gaming-culture-evolution/)Granic, I., Lobel, A., & Engels, R. C. (2014).
+
+The benefits of playing video games. American Psychologist, 69(1), 66-78. [https://doi.org/10.1037/a0034857](https://doi.org/10.1037/a0034857)Bediou, B., Adams, D. M., Mayer, R. E., Tipton, E., Green, C. S., & Bavelier, D. (2018). 
+
+Meta-analysis of action video game impact on perceptual, attentional, and cognitive skills. Psychological Bulletin, 144(1), 77-110. [https://doi.org/10.1037/bul0000130](https://doi.org/10.1037/bul0000130)Palaus, M., Marron, E. M., Viejo, R., & Redolar-Ripoll, D. (2017). 
+
+Neural basis of video gaming: A systematic review. Frontiers in Human Neuroscience, 11, 248. [https://doi.org/10.3389/fnhum.2017.00248](https://doi.org/10.3389/fnhum.2017.00248)
