@@ -1,6 +1,6 @@
 - [[Theory of Games]]
 - [[War Problems]]
-
+- [[Human Rights Violation]]
   <div id="disqus_thread"></div>
 <script>
     /**
