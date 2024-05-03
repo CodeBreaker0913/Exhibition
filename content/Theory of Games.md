@@ -1,3 +1,3 @@
 ---
-title: Theory of Games
+title: Table of Contents
 ---
