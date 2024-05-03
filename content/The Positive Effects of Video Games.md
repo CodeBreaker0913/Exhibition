@@ -1,4 +1,12 @@
 
+https://landing.jobs/blog/gaming-culture-evolution/
+https://gamequitters.com/positive-effects-of-video-games/
+https://news.uark.edu/articles/40981/one-hour-of-video-gaming-can-increase-the-brain-s-ability-to-focus
+https://www.icls.edu/blog/video-games-help-people-to-learn-a-new-language
+
+
+
+
 INS
 **Gaming and Us:**
 ![[Pasted image 20240502201424.png]]
