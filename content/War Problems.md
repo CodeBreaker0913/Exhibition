@@ -1,3 +1,5 @@
+<font size=5>Created by Kirill Komissarov</font>
+
 **Reasons why wars still exist:**
 
 1. Power and control: Nations or groups may go to war to establish dominance over a region, gain control of valuable resources, or expand their influence and power.

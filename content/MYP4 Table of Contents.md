@@ -1,2 +1,2 @@
 - [[Theory of Games]]
-- 
+- [[War Problems]]

@@ -1,3 +1,4 @@
+<font size=5>Created by Saidamir Saidaloev</font>
 
 **How Gaming Affects your Mental and Physical Health**
 
@@ -87,5 +88,6 @@ Emotional Regulation refers to the ability to be in control of your emotional st
 *Adair, C. (n.d.). The Negative Effects of Video Games - 12 Symptoms. Retrieved from https://gamequitters.com/negative-effects-of-video-games/
 
 [[The Positive Effects of Video Games]]
+
 
 

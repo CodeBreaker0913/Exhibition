@@ -1,3 +1,4 @@
+<font size=5>Created by Anuar Beksultan</font>
 
 https://landing.jobs/blog/gaming-culture-evolution/
 https://gamequitters.com/positive-effects-of-video-games/
