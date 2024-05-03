@@ -1,12 +1,3 @@
-
-```
----
-layout: default
-comments: true
-# other options
----
-```
-
 <font size=5>Created by Kirill Komissarov</font>
 
 **Reasons why wars still exist:**
