@@ -3,7 +3,7 @@
 - [[Human Rights Violation]]
 - [[Reflecting on Changes in Human Society through the Interwar Years]]
   <div id="disqus_thread"></div>
-
+- [[Analysing Uzbek Industries]]
 
 
 <script>
