@@ -1,7 +1,7 @@
 - [[Theory of Games]]
 - [[War Problems]]
 - [[Human Rights Violation]]
-- [[Padlet]]
+- [[Reflecting on Changes in Human Society through the Interwar Years]]
   <div id="disqus_thread"></div>
 
 <script>

@@ -1,5 +1,15 @@
-- [[Saidamir Saidaloev]]
+- [[Ahmed Awwad]]
+- [[Alina Kazaeva]]
+- [[Angelina Ashirova]]
 - [[Anuar Beksultan]]
+- [[David Arefyev]]
+- [[Khadija Tulyaganova]]
+- [[Kirill Komissarov]]
+- [[Madina Yunusova]]
+- [[Mariam Mirzalieva]]
+- [[Mumtoza Rustamova]]
+- [[Nayoung Kim]]
+- [[Saidamir Saidaloev]]
 
 <div id="disqus_thread"></div>
 <script>
