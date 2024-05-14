@@ -1,8 +1,7 @@
-- [[Bridging Eras.  A Journey from Medieval Times to Modern Life]]
-- [[Sustainability Detectives.  Uncovering and Addressing Tashkent's Environmental Challenges]]
+<font size=5>Created by Mariam Mirzalieva, Angelina Ashirova and Nayoung Kim</font>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sLjsE8CoNdU?si=mL8IdBX4PCyY-Y-n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div id="disqus_thread"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.

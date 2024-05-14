@@ -1,8 +1,11 @@
-- [[Bridging Eras.  A Journey from Medieval Times to Modern Life]]
-- [[Sustainability Detectives.  Uncovering and Addressing Tashkent's Environmental Challenges]]
+- [[Saidaziz]]
+- [[Veronika]]
+- [[Korlan]]
+- [[Evelina]]
+- [[Begaim]]
+- [[Amira]]
 
 
-<div id="disqus_thread"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.

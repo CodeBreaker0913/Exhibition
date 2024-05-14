@@ -2,9 +2,10 @@
 - [[War Problems]]
 - [[Human Rights Violation]]
 - [[Reflecting on Changes in Human Society through the Interwar Years]]
-- [[Analysing Uzbek Industries]]
-
   <div id="disqus_thread"></div>
+- [[Analysing Uzbek Industries]]
+- [[Factory Diorama]]
+
 
 <script>
     /**
