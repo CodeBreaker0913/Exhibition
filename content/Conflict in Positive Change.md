@@ -54,7 +54,9 @@ So, when conflict comes knocking, don't run away,
 
 Embrace it, see it as a chance to sway.
 
-With conflict by our side, innovation will ignite, Injustice will crumble, truth shining bright.
+With conflict by our side, innovation will ignite, 
+
+Injustice will crumble, truth shining bright.
 
 
 
