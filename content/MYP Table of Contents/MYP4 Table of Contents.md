@@ -5,6 +5,7 @@
   <div id="disqus_thread"></div>
 - [[Analysing Uzbek Industries]]
 - [[Factory Diorama]]
+- [[Conflict in Positive Change]]
 
 
 <script>
